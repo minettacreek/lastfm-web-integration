@@ -17,7 +17,6 @@ This project integrates with the LastFM API to fetch and display your playing tr
 4. Run the development server using `npm run dev`.
 5. Enter the web integration URL into your NZXT Cam. By default it is `http://localhost:3000/`
 ![enter image description here](https://files.catbox.moe/gnw87s.png)
-![enter image description here](https://files.catbox.moe/u8ai9a.png)
 ### Remotely
 🚧
 
