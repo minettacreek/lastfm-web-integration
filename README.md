@@ -5,6 +5,11 @@ This project integrates with the LastFM API to fetch and display your playing tr
 
 ![nzxt cam lcd screen](https://files.catbox.moe/t1adch.png)
 
+## Prerequisites
+
+Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+
 ## Setup
 
 ### Locally
